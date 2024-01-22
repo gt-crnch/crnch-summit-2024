@@ -3,10 +3,10 @@
 The CRNCH Summit will take place in person in the Tech Square Research Building on February 8th and 9th. The poster session will run during lunch on February 8th from 12 PM to 1:15 PM, and posters will be up all day Thursday. We also plan to feature poster PDFs on our digital site for those of you who give us permission to do so.
 
 ## Poster Submission Instructions
-The CRNCH Summit Poster template can be found under Dropbox [at this link](https://www.dropbox.com/s/5sczj4x4986ub9e/CRNCH%20Poster%20Template%202022.pptx?dl=0).
+The CRNCH Summit Poster template can be found under OneDrive [at this link](https://gtvault.sharepoint.com/:p:/s/CRNCH-Administrative/EVOhA6AN6DhNm7YT5QBKVwoB4x-D1TY95sokB6Pg04IWsw?e=Y2DWK5). You may need to log in with your GT account.
 
 ### Submission Deadlines
-~PDF Submission Deadline (Please remember to print your poster): 11:59 PM, 2/2/2024~  
+PDF Submission Deadline (Please remember to print your poster): 11:59 PM, 2/2/2024  
 
 To present a poster we ask you to do the following:
 1) [Fill out the survey here](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZmQ7mehWtfLrVA) with the information about your poster below including the abstract for your poster and a PDF version of the poster.
