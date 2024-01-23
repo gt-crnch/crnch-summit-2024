@@ -6,7 +6,8 @@ The CRNCH Summit will take place in person in the Tech Square Research Building 
 The CRNCH Summit Poster template can be found under OneDrive [at this link](https://gtvault.sharepoint.com/:p:/s/CRNCH-Administrative/EVOhA6AN6DhNm7YT5QBKVwoB4x-D1TY95sokB6Pg04IWsw?e=Y2DWK5). You may need to log in with your GT account.
 
 ### Submission Deadlines
-PDF Submission Deadline (Please remember to print your poster): 11:59 PM, 2/2/2024  
+
+PDF Submission Deadline via the Survey Link (Please remember to print your poster): 11:59 PM, 2/5/2024
 
 To present a poster we ask you to do the following:
 1) [Fill out the survey here](https://gatech.co1.qualtrics.com/jfe/form/SV_3NJtDc1fS25toAm) with the information about your poster below including the abstract for your poster and a PDF version of the poster.
