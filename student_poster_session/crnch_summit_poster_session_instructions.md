@@ -9,7 +9,7 @@ The CRNCH Summit Poster template can be found under OneDrive [at this link](http
 PDF Submission Deadline (Please remember to print your poster): 11:59 PM, 2/2/2024  
 
 To present a poster we ask you to do the following:
-1) [Fill out the survey here](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZmQ7mehWtfLrVA) with the information about your poster below including the abstract for your poster and a PDF version of the poster.
+1) [Fill out the survey here](https://gatech.co1.qualtrics.com/jfe/form/SV_3NJtDc1fS25toAm) with the information about your poster below including the abstract for your poster and a PDF version of the poster.
 2)  Please sign up for the summit [using this registration link](https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=560). You can select the audit option if you only plan to attend the poster session. 
 3)  Bring your poster to the summit registration desk by 11 AM on Thursday, February 8th.
 4)  Prepare to present your poster and talk about it with other attendees around lunchtime (12 PM) on Thursday, Feb. 8th.
@@ -23,7 +23,7 @@ To present a poster we ask you to do the following:
 [Paper and Clay Poster Printing Qualtrics Form](https://gatech.co1.qualtrics.com/jfe/form/SV_daqObXeNDAwq9Om)
 
 * Each student should have a set amount of pay-for-print funds that can be used to print at the library. 
-    * [See this ServiceNow entry for more information on printing](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0027983)  
+    * [See this ServiceNow entry for more information on printing at the library](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0027983)  
     * Please let us know at captain@crnch.gatech.edu if this poses a financial burden or if you have run out of PFP funds for the semester.
     * Paper and Clay takes credit card, Buzzcard, or departmental worktag. Posters cost $8 to print.
 * Please print a 24x36 (height x width for horizontal) poster in matte finish. This will ensure that your poster fits on the poster board.
