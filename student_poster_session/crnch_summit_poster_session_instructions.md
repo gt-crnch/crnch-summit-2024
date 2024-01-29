@@ -1,6 +1,6 @@
 # CRNCH Summit Poster Session - 2024
  
-The CRNCH Summit will take place in person in the Tech Square Research Building on February 8th and 9th. The poster session will run during lunch on February 8th from 12 PM to 1:15 PM, and posters will be up all day Thursday. We also plan to feature poster PDFs on our digital site for those of you who give us permission to do so.
+The CRNCH Summit will take place in person in the Tech Square Research Building on February 8th and 9th. The poster session will run during the afternoon on February 8th from 4:40 to 6 PM, and posters will be up all day Thursday. We also plan to feature poster PDFs on our digital site for those of you who give us permission to do so.
 
 ## Poster Submission Instructions
 The CRNCH Summit Poster template can be found under OneDrive [at this link](https://gtvault.sharepoint.com/:p:/s/CRNCH-Administrative/EVOhA6AN6DhNm7YT5QBKVwoB4x-D1TY95sokB6Pg04IWsw?e=Y2DWK5). You may need to log in with your GT account.
@@ -12,12 +12,12 @@ PDF Submission Deadline via the Survey Link (Please remember to print your poste
 To present a poster we ask you to do the following:
 1) [Fill out the survey here](https://gatech.co1.qualtrics.com/jfe/form/SV_3NJtDc1fS25toAm) with the information about your poster below including the abstract for your poster and a PDF version of the poster.
 2)  Please sign up for the summit [using this registration link](https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=560). You can select the audit option if you only plan to attend the poster session. 
-3)  Bring your poster to the summit registration desk by 11 AM on Thursday, February 8th.
-4)  Prepare to present your poster and talk about it with other attendees around lunchtime (12 PM) on Thursday, Feb. 8th.
+3)  Bring your poster to the summit registration desk by 1 PM on Thursday, February 8th.
+4)  Prepare to present your poster and talk about it with other attendees around 4:30 PM on Thursday, Feb. 8th.
 
 ## Printing your poster
 
-**NOTE**: We are asking you to please print and bring your poster Thursday morning by 11 AM. Foam poster board (size 30x40) and easels will be provided for all presenters. You can print your poster either at the library or at Paper and Clay.
+**NOTE**: We are asking you to please print and bring your poster to the check-in desk Thursday by 1 PM. Foam poster board (size 30x40) and easels will be provided for all presenters. You can print your poster either at the library or at Paper and Clay.
 
 [GT Library Poster Request and Instructions](https://www.library.gatech.edu/poster-request) 
 
@@ -32,7 +32,7 @@ To present a poster we ask you to do the following:
 
 ## Bringing your Poster to the Summit
 
-Please either drop off your poster when you check in Thursday morning or by 11 AM on Thursday so that we have time to set all the posters up. The poster session will run during lunch, and posters should remain up for the afternoon break. Please plan to have at least one person near your poster during lunch. 
+Please either drop off your poster when you check in Thursday morning or by 1 PM on Thursday so that we have time to set all the posters up. The poster session will run during the afternoon session, and posters should remain up from lunch through the end of the first day. Please plan to have at least one person near your poster during the poster session. 
 
 ## Online Posting of Your Poster PDF and Abstract
 
