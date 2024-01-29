@@ -2,7 +2,7 @@
 
 ## <a id="hf">Hal Finkel - _Keynote_ - The Department of Energy’s Advanced Scientific Computing Research Program: Recent Advances and Trends Motivating Future Research</a>
 
-<img alt="Hal Finkel Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/hf_headshot.jpeg" width="300" height="200">
+<img alt="Hal Finkel Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/hf_headshot.jpeg" width="300" height="300">
 
 <a id="hf_ab">**Abstract:**</a> 
 
