@@ -118,7 +118,7 @@ Lowe-Power is a Member of the ECE graduate group, and is Project management comm
 
 ## <a id="hf">Jeffrey Young - Simulation and Testbeds</a>
 
-<img alt="Jeff Young Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/jeffrey_young.png" width="300" height="300">
+<img alt="Jeff Young Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/jeffrey_young.png" width="280" height="300">
 
 <!--<a id="hf_ab"></a>**Abstract:** -->
 
@@ -137,3 +137,68 @@ I am a Computer Scientist in the Artificial Intelligence and Machine Learning (A
 1. Developing performance models to identifying and addressing bottlenecks while scaling machine learning and deep learning frameworks on emerging supercomputers for scientific applications.
 2. Co-design of emerging hardware architectures to scale up machine learning algorithms.
 3. Efforts on benchmarking ML/DL frameworks and methods on HPC systems.
+
+
+# Friday, February 9th, 2024
+## <a id="hf">Yiran Chen</a>
+
+<img alt="Yiran Chen Headshot" src="./presenter_slides/Friday_02_09_24/headshots/yiran.jpg" width="300" height="300">
+
+<!--<a id="hf_ab"></a>**Abstract:** -->
+
+<a id="hf_bio"></a>**Biography:**
+Yiran Chen received B.S. (1998) and M.S. (2001) from Tsinghua University and Ph.D. (2005) from Purdue University. After five years in the industry, he joined the University of Pittsburgh in 2010 as Assistant Professor and was promoted to Associate Professor with tenure in 2014, holding Bicentennial Alumni Faculty Fellow. He is now the John Cocke Distinguished Professor of Electrical and Computer Engineering at Duke University and serving as the director of the NSF AI Institute for Edge Computing Leveraging the Next-generation Networks (Athena), the NSF Industry-University Cooperative Research Center (IUCRC) for Alternative Sustainable and Intelligent Computing (ASIC), and the co-director of Duke Center for Computational Evolutionary Intelligence (DCEI). His group focuses on the research of new memory and storage systems, machine learning and neuromorphic computing, and mobile computing systems. Dr. Chen has published 1 book and about 600 technical publications and has been granted 96 US patents. He has served as the associate editor of more than a dozen international academic periodicals and served on the technical and organization committees of about 70 international conferences. He is now serving as the Editor-in-Chief of the IEEE Circuits and Systems Magazine. He received 11 best paper awards, 1 best poster award, and 15 best paper nominations from international conferences and workshops. He received numerous awards for his technical contributions and professional services such as the IEEE CASS Charles A. Desoer Technical Achievement Award, the IEEE Computer Society Edward J. McCluskey Technical Achievement Award, etc. He has been the distinguished lecturer of IEEE CEDA and CAS. He is a Fellow of the AAAS, ACM, and IEEE, and now serves as the chair of ACM SIGDA.
+
+## <a id="hf">Ben Feinberg</a>
+
+<img alt="Ben Feinberg Headshot" src="./presenter_slides/Friday_02_09_24/headshots/ben.jpg" width="300" height="300">
+
+<!--<a id="hf_ab"></a>**Abstract:** -->
+
+<a id="hf_bio"></a>**Biography:**
+I am a postdoctoral researcher at Sandia National Labs focusing on linear algebra accelerators. My research interests include memory-centric accelerators, emerging resistive memory technologies, heterogeneous architectures, energy efficient data representations, and hardware security.
+
+## <a id="hf">Jennifer Hasler</a>
+
+<img alt="Jennifer Hasler Headshot" src="./presenter_slides/Friday_02_09_24/headshots/JenniferHasler.webp" width="300" height="300">
+
+<!--<a id="hf_ab"></a>**Abstract:** -->
+
+<a id="hf_bio"></a>**Biography:**
+Rev. Dr. Jennifer Hasler received her B.S.E. and M.S. degrees in electrical engineering from Arizona State University in August 1991. She received her Ph.D. in computation and neural systems from California Institute of Technology in February 1997, and she received her Master of Divinity degree from the Candler School of Theology at Emory University in 2020. Her ordination service was held on December 17, 2021. 
+
+Dr. Hasler is a professor at the Georgia Institute of Technology in the School of Electrical and Computer Engineering; Atlanta is the coldest climate in which Dr. Hasler has lived.
+
+Dr. Hasler founded the Integrated Computational Electronics (ICE) laboratory at Georgia Tech, a laboratory affiliated with the Laboratories for Neural Engineering.
+
+Dr. Hasler is a member of Tau Beta P, Eta Kappa Nu, and the IEEE.
+
+## <a id="hf">Spencer Bryngelson</a>
+
+<img alt="Spencer Bryngelson Headshot" src="./presenter_slides/Friday_02_09_24/headshots/spencer_bryngelson.jpg" width="280" height="300">
+
+<!--<a id="hf_ab"></a>**Abstract:** -->
+
+<a id="hf_bio"></a>**Biography:**
+Spencer Bryngelson is a tenure-track assistant professor in the College of Computing at Georgia Tech. Previously, he was a senior postdoctoral researcher at Caltech (with Professor Tim Colonius). He has been a visiting researcher at MIT (with Professor Themis Sapsis) and a postdoctoral researcher at the Center for Exascale Simulation of Plasma-Coupled Combustion (XPACC). He received his Ph.D. and M.S. in Theoretical and Applied Mechanics from the University of Illinois at Urbana–Champaign in 2017 and 2015, working with Professor Jonathan Freund. In 2013, he received B.S. degrees in both Mechanical Engineering and Mathematics from the University of Michigan–Dearborn.
+
+## <a id="hf">Roberto Gioiosa</a>
+
+<img alt="Roberto Gioiosa Headshot" src="./presenter_slides/Friday_02_09_24/headshots/Gioiosa.jpg" width="420" height="300">
+
+<!--<a id="hf_ab"></a>**Abstract:** -->
+
+<a id="hf_bio"></a>**Biography:**
+Dr. Gioiosa is currently a research scientist at Pacific Northwest National Laboratory (PNNL) in the High-Performance Computing group (Computational Science and Mathematics Division).
+
+Gioiosa received his PhD from the University of Rome Tor Vergata in 2006 for his work studying  "High-performance computing clusters". Prior to coming to PNNL, he was a graduate student at Los Alamos National Laboratory from April 2004 to June 2005, working on high-performance computing (fault tolerance and performance analysis) in the context of the Productive, Easy-to-use, Reliable Computing System project. Gioiosa worked at the Barcelona Supercomputing Center as a postdoc in 2006-2008 and 2009-2012. At the Barcelona Supercomputing Center he worked on operating systems for high-performance computing systems and optimization for future processor architectures, and was involved in several projects with IBM, SUN, the European Union, and the European Space Agency. From September 2008 to September 2009, he was postdoc at IBM TJ Watson Research center in the BlueGene system software group where he worked on the operating system for next generation of supercomputers BlueGene/Q.
+
+
+## <a id="hf">Bahar Asgari</a>
+
+<img alt="Bahar Asgari Headshot" src="./presenter_slides/Friday_02_09_24/headshots/bahar.jpg" width="300" height="300">
+
+<!--<a id="hf_ab"></a>**Abstract:** -->
+
+<a id="hf_bio"></a>**Biography:**
+I am an assistant professor in the Department of Computer Science at the University of Maryland, College Park, with a joint appointment in UMIACS. Before this, I spent a year at Google's Systems and Services Infrastructure team. I received my Ph.D. in Electrical and Computer Engineering from Georgia Tech in 2021. In 2019, I was selected as a Rising Star in EECS. My research revolves around accelerating sparse problems, near-memory processing, and using machine learning to design efficient reconfigurable domain-specific architectures. I am honored that my research was recognized with a DoE Early Career Award in 2023.
