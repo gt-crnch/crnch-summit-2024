@@ -141,7 +141,7 @@ I am a Computer Scientist in the Artificial Intelligence and Machine Learning (A
 
 
 # Friday, February 9th, 2024
-## <a id="hf">Yiran Chen</a>
+## <a id="hf">Yiran Chen - Keynote</a>
 
 <img alt="Yiran Chen Headshot" src="./presenter_slides/Friday_02_09_24/headshots/yiran.jpg" width="300" height="300">
 
@@ -151,7 +151,7 @@ As artificial intelligence (AI) transforms various industries, state-of-the-art 
 <a id="hf_bio"></a>**Biography:**
 Yiran Chen received B.S. (1998) and M.S. (2001) from Tsinghua University and Ph.D. (2005) from Purdue University. After five years in the industry, he joined the University of Pittsburgh in 2010 as Assistant Professor and was promoted to Associate Professor with tenure in 2014, holding Bicentennial Alumni Faculty Fellow. He is now the John Cocke Distinguished Professor of Electrical and Computer Engineering at Duke University and serving as the director of the NSF AI Institute for Edge Computing Leveraging the Next-generation Networks (Athena), the NSF Industry-University Cooperative Research Center (IUCRC) for Alternative Sustainable and Intelligent Computing (ASIC), and the co-director of Duke Center for Computational Evolutionary Intelligence (DCEI). His group focuses on the research of new memory and storage systems, machine learning and neuromorphic computing, and mobile computing systems. Dr. Chen has published 1 book and about 600 technical publications and has been granted 96 US patents. He has served as the associate editor of more than a dozen international academic periodicals and served on the technical and organization committees of about 70 international conferences. He is now serving as the Editor-in-Chief of the IEEE Circuits and Systems Magazine. He received 11 best paper awards, 1 best poster award, and 15 best paper nominations from international conferences and workshops. He received numerous awards for his technical contributions and professional services such as the IEEE CASS Charles A. Desoer Technical Achievement Award, the IEEE Computer Society Edward J. McCluskey Technical Achievement Award, etc. He has been the distinguished lecturer of IEEE CEDA and CAS. He is a Fellow of the AAAS, ACM, and IEEE, and now serves as the chair of ACM SIGDA.
 
-## <a id="hf">Ben Feinberg</a>
+## <a id="hf">Ben Feinberg - Analog and Neuromorphic</a>
 
 <img alt="Ben Feinberg Headshot" src="./presenter_slides/Friday_02_09_24/headshots/ben.jpg" width="300" height="300">
 
@@ -161,7 +161,7 @@ Over the past decade there has been a resurgence of interest in analog accelerat
 <a id="hf_bio"></a>**Biography:**
 Ben Feinberg is a Senior Member of Technical Staff in the Scalable Computer Architecture Group at Sandia National Laboratories. His research focuses on architectures for autonomous system with an emphasis on analog accelerators. Dr. Feinberg leads architecture modeling and system software research for Sandia's Rad-Edge project, and is Sandia's lead architect for the DARPA OPTIMA program. He is one of the developers of CrossSim, and leads a project with DOE Vehicle Technology Office on compute requirements for autonomous vehicles. Prior to joining Sandia in 2019, Ben completed his PhD in Electrical Engineering at the University of Rochester
 
-## <a id="hf">Jennifer Hasler</a>
+## <a id="hf">Jennifer Hasler - Analog and Neuromorphic</a>
 
 <img alt="Jennifer Hasler Headshot" src="./presenter_slides/Friday_02_09_24/headshots/JenniferHasler.webp" width="300" height="300">
 
@@ -176,7 +176,7 @@ Dr. Hasler founded the Integrated Computational Electronics (ICE) laboratory at 
 
 Dr. Hasler is a member of Tau Beta P, Eta Kappa Nu, and the IEEE.
 
-## <a id="hf">Spencer Bryngelson</a>
+## <a id="hf">Spencer Bryngelson - Emerging Applications</a>
 
 <img alt="Spencer Bryngelson Headshot" src="./presenter_slides/Friday_02_09_24/headshots/spencer_bryngelson.jpg" width="280" height="300">
 
@@ -186,7 +186,7 @@ Partial differential equation (PDE) solvers for Navier-Stokes fluids problems ar
 <a id="hf_bio"></a>**Biography:**
 Spencer Bryngelson is a tenure-track assistant professor in the College of Computing at Georgia Tech. Previously, he was a senior postdoctoral researcher at Caltech (with Professor Tim Colonius). He has been a visiting researcher at MIT (with Professor Themis Sapsis) and a postdoctoral researcher at the Center for Exascale Simulation of Plasma-Coupled Combustion (XPACC). He received his Ph.D. and M.S. in Theoretical and Applied Mechanics from the University of Illinois at Urbana–Champaign in 2017 and 2015, working with Professor Jonathan Freund. In 2013, he received B.S. degrees in both Mechanical Engineering and Mathematics from the University of Michigan–Dearborn.
 
-## <a id="hf">Roberto Gioiosa</a>
+## <a id="hf">Roberto Gioiosa - HW-SW Co-Design</a>
 
 <img alt="Roberto Gioiosa Headshot" src="./presenter_slides/Friday_02_09_24/headshots/Gioiosa.jpg" width="420" height="300">
 
@@ -198,7 +198,7 @@ Dr. Gioiosa is currently a research scientist at Pacific Northwest National Labo
 Gioiosa received his PhD from the University of Rome Tor Vergata in 2006 for his work studying  "High-performance computing clusters". Prior to coming to PNNL, he was a graduate student at Los Alamos National Laboratory from April 2004 to June 2005, working on high-performance computing (fault tolerance and performance analysis) in the context of the Productive, Easy-to-use, Reliable Computing System project. Gioiosa worked at the Barcelona Supercomputing Center as a postdoc in 2006-2008 and 2009-2012. At the Barcelona Supercomputing Center he worked on operating systems for high-performance computing systems and optimization for future processor architectures, and was involved in several projects with IBM, SUN, the European Union, and the European Space Agency. From September 2008 to September 2009, he was postdoc at IBM TJ Watson Research center in the BlueGene system software group where he worked on the operating system for next generation of supercomputers BlueGene/Q.
 
 
-## <a id="hf">Bahar Asgari</a>
+## <a id="hf">Bahar Asgari - HW-SW Co-Design</a>
 
 <img alt="Bahar Asgari Headshot" src="./presenter_slides/Friday_02_09_24/headshots/bahar.jpg" width="300" height="300">
 
