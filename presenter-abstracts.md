@@ -98,14 +98,14 @@ I was named a Sloan Fellow in Computer Science, won my NSF CAREER and a VMware E
 
 <img alt="Azad Naeemi Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/Azad.webp" width="300" height="300">
 
-<!--<a id="hf_ab"></a>**Abstract:** -->
+<a id="hf_ab"></a>**Abstract:**
+Novel Ternary Content Addressable Memory Designs Based on Emerging Magnetic and Magnetoelectric Devices
+ 
+With the ever-growing limits imposed by interconnects, novel computing paradigms that may reduce data traffic between logic and memory have become more attractive. Various in-memory computing approaches are therefore being explored for various applications/domains such as neural networks, associative memories, spin- torque nano-oscillators, probabilistic computing, and reservoir computing. Ternary content addressable memory (TCAM) is an associative memory that performs parallel data searches over a memory array and outputs if/where a match occurs. TCAMs have been used in a variety of applications, such as few-shot learning, DNA read alignment, deep random forest, and hyperdimensional computing. In this talk, compact TCAM cells with only a few transistors based on spin-orbit-torque and magnetoelectric devices are proposed and their potential performances are quantified using experimentally validated/calibrated physical models.
 
 <a id="hf_bio"></a>**Biography:**
-Professor Naeemi received his B.S. degree in electrical engineering from Sharif University, Tehran, Iran in 1994, and his M.S. and Ph.D. degrees in electrical and computer engineering from the Georgia Institute of Technology, Atlanta, Ga. in 2001 and 2003, respectively.
-
-Prior to his graduate studies (from 1994 to 1999), he was a design engineer with Partban and Afratab Companies, both located in Tehran, Iran. He worked as a research engineer in the Microelectronics Research Center at Georgia Tech from 2004 to 2008 and joined the ECE faculty at Georgia Tech in fall 2008.
-
-His research crosses the boundaries of materials, devices, circuits, and systems investigating integrated circuits based on conventional and emerging nanoelectronic and spintronic devices and interconnects. He is the recipient of the IEEE Electron Devices Society (EDS) Paul Rappaport Award for the best paper that appeared in IEEE Transactions on Electron Devices during 2007. He is also the first recipient of the IEEE Solid-State Circuits Society James D. Meindl Innovators Award (2022). He has received an NSF CAREER Award, an SRC Inventor Recognition Award, and several best paper awards at international conferences.
+Azad Naeemi is a professor in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. His technical research crosses the boundaries of materials, devices, circuits, and systems, investigating integrated circuits based on conventional and emerging nanoscale devices and interconnects. His educational research includes experiential learning environments and their impact on conceptual understanding of scientific and engineering topics. He serves as the Editor-in-Chief of the IEEE Journal on Exploratory Computational Devices and Circuits (JXCDC) and is the Associate Director for Computation for the NSF-supported National Nanotechnology Coordinated Infrastructure (NNCI). He is a recipient of the IEEE Electron Devices Society (EDS) Paul Rappaport Award, the Inaugural IEEE Solid-State Circuits Society (SSCS) James Meindl Innovators Award, an NSF CAREER Award, an SRC Inventor Recognition Award, and several best paper awards from international conferences. 
+ 
 
 ## <a id="hf">Jason Lowe-Power - Simulation and Testbeds</a>
 
