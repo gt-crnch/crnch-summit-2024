@@ -186,6 +186,16 @@ Partial differential equation (PDE) solvers for Navier-Stokes fluids problems ar
 <a id="hf_bio"></a>**Biography:**
 Spencer Bryngelson is a tenure-track assistant professor in the College of Computing at Georgia Tech. Previously, he was a senior postdoctoral researcher at Caltech (with Professor Tim Colonius). He has been a visiting researcher at MIT (with Professor Themis Sapsis) and a postdoctoral researcher at the Center for Exascale Simulation of Plasma-Coupled Combustion (XPACC). He received his Ph.D. and M.S. in Theoretical and Applied Mechanics from the University of Illinois at Urbana–Champaign in 2017 and 2015, working with Professor Jonathan Freund. In 2013, he received B.S. degrees in both Mechanical Engineering and Mathematics from the University of Michigan–Dearborn.
 
+## <a id="hf">Larry Heck - Emerging Applications</a>
+
+<img alt="Larry Heck Headshot" src="./presenter_slides/Friday_02_09_24/headshots/larry.jpeg" width="280" height="300">
+
+<a id="hf_ab"></a>**Abstract:** 
+With the very recent and broad awareness of Large Language Models (LLMs) across many disciplines and industries, there is a high level of excitement and expectation for the potential of this technology. As with any significant advance in technology, there is also the accompanying hype with overstatements of the capabilities of LLMs (e.g., reasoning, intelligence, emerging consciousness) as well as accompanying fear of what this advance represents in the broader AI story - fear of AI taking jobs, fear of AI misinformation, bias, undue influence on the political and economic processes, fear of unchecked autonomous AI, etc. In this talk, I will attempt to provide clarity on the reality of LLMs - a brief historical perspective on where they came from, what problems they were designed to solve, and what are their inherent limitations. I will discuss some of the more surprising capabilities that have emerged in LLMs, the potential of LLMs, and where the technology is going in the near future.
+
+<a id="hf_bio"></a>**Biography:**
+Larry Heck is a Professor in ECE and Interactive Computing, co-Head of the AI Hub and Machine Learning Center, Farmer Chair of Advanced Computing Concepts, and a GRA Eminent Scholar at the Georgia Institute of Technology. He is a Fellow of the IEEE, inducted into the Academy of Distinguished Engineers at Georgia Tech, and named a Distinguished Engineer at Texas Tech. After receiving the PhD EE from Georgia Tech, he joined SRI, followed by VP of R&D at Nuance, VP of Search and Advertising at Yahoo!, Chief Speech Scientist and Distinguished Engineer at Microsoft, Principal Scientist with Google Research, and CEO of Viv Labs and SVP at Samsung.
+
 ## <a id="hf">Roberto Gioiosa - HW-SW Co-Design</a>
 
 <img alt="Roberto Gioiosa Headshot" src="./presenter_slides/Friday_02_09_24/headshots/Gioiosa.jpg" width="420" height="300">
