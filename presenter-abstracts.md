@@ -188,7 +188,7 @@ Spencer Bryngelson is a tenure-track assistant professor in the College of Compu
 
 ## <a id="hf">Larry Heck - Emerging Applications</a>
 
-<img alt="Larry Heck Headshot" src="./presenter_slides/Friday_02_09_24/headshots/larry.jpeg" width="280" height="300">
+<img alt="Larry Heck Headshot" src="./presenter_slides/Friday_02_09_24/headshots/larry.jpeg" width="240" height="300">
 
 <a id="hf_ab"></a>**Abstract:** 
 With the very recent and broad awareness of Large Language Models (LLMs) across many disciplines and industries, there is a high level of excitement and expectation for the potential of this technology. As with any significant advance in technology, there is also the accompanying hype with overstatements of the capabilities of LLMs (e.g., reasoning, intelligence, emerging consciousness) as well as accompanying fear of what this advance represents in the broader AI story - fear of AI taking jobs, fear of AI misinformation, bias, undue influence on the political and economic processes, fear of unchecked autonomous AI, etc. In this talk, I will attempt to provide clarity on the reality of LLMs - a brief historical perspective on where they came from, what problems they were designed to solve, and what are their inherent limitations. I will discuss some of the more surprising capabilities that have emerged in LLMs, the potential of LLMs, and where the technology is going in the near future.
