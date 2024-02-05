@@ -157,7 +157,7 @@ Spencer Bryngelson is a tenure-track assistant professor in the College of Compu
 
 ## <a id="hf">Mathias Jacquelin - Emerging Applications</a>
 
-<img alt="Mathias Jacquelin Headshot" src="./presenter_slides/Friday_02_09_24/headshots/spencer_bryngelson.jpg" width="280" height="300">
+<img alt="Mathias Jacquelin Headshot" src="./presenter_slides/Friday_02_09_24/headshots/mathias.jpeg" width="280" height="300">
 
 <!-- <a id="hf_ab"></a>**Abstract:** 
 Partial differential equation (PDE) solvers for Navier-Stokes fluids problems are important for many science and engineering problems. Quantum algorithms have been verified to can solve linear PDEs and verified on simulators. Fault-tolerant quantum hardware may make exponential speedups possible for, for example via linearization methods and HHL-type linear solvers. Still, NISQ-era near-term quantum hardware requires algorithms that demand less quantum volume: shallower gate depths and fewer qubits. Variational algorithms, like VQE and VQLS, are appropriate under such restrictions. Here, we present work on a hybrid approach to solving the nonlinear incompressible Navier-Stokes equations. A classical computer performs the nonlinear computations and a quantum algorithm, on simulator or hardware, performs the cumbersome Poisson equation solve that enforces mass continuity. A lid-driven cavity flow problem is investigated to analyze sensitivity to variational parameters and quantum noise.
