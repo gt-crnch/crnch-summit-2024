@@ -9,17 +9,6 @@
 <a id="hf_bio"></a>**Biography:**
 Hal is a program manager for computer-science research in the US Department of Energy (DOE) Office of Science’s Advanced Scientific Computing Research (ASCR) program and is currently the acting Division Director for ASCR’s Computational Science Research and Partnership division. Prior to joining ASCR, Hal was the Lead for Compiler Technology and Programming Languages at Argonne’s Leadership Computing Facility. He graduated from Yale University in 2011 with a Ph.D. in theoretical physics focusing on numerical simulation of early-universe cosmology.
 
-## <a id="hf">Leon Song - ML Systems</a>
-
-<img alt="Leon Song Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/SHUAIWEN-SONG_HEADSHOT.jpg" width="300" height="300">
-
-<!--<a id="hf_ab"></a>**Abstract:** -->
-
-<a id="hf_bio"></a>**Biography:**
-Shuaiwen Leon Song is part of Microsoft Deepspeed research group and manages the new Heterogenous Computing Architecture (HCA) group (e.g., Brainwave project). He leads Deepspeed4Science initiative (deepspeed4science.ai) and several other pathfinding projects related to LLMs. He is constantly exploring and exploiting opportunities to make Deepspeed the most efficient large-scale ML system acceleration framework in the world, focusing on producing cutting-edge system R&D that can benefits Azure and Bing users as well as making positive social impact by enabling sophisticated ML system designs for MSR AI4Science and WebXT/Bing 1P customers.
-
-Shuaiwen has published over 85 refereed conference and journal articles. He also served as program track chair, organizing committee or program committee for leading HPC (e.g., Supercomputing) and computer architecture conferences (e.g., ASPLOS, ISCA, HPCA and MICRO). He is an ACM distinguished speaker.
-
 
 ## <a id="hf">Alexey Tumanov - ML Systems</a>
 
@@ -30,24 +19,6 @@ Shuaiwen has published over 85 refereed conference and journal articles. He also
 <a id="hf_bio"></a>**Biography:**
 I've started as a tenure-track Assistant Professor in the School of Computer Science at Georgia Tech in August 2019, transitioning from my postdoc at the University of California Berkeley, where I worked with Ion Stoica and collaborated closely with Joseph Gonzalez. I completed my Ph.D. at Carnegie Mellon University, advised by Gregory Ganger. At Carnegie Mellon, I was honored by the prestigious NSERC Alexander Graham Bell Canada Graduate Scholarship (NSERC CGS-D3) and partially funded by the Intel Science and Technology Centre for Cloud Computing and Parallel Data Lab. Prior to Carnegie Mellon, I worked on agile stateful VM replication with para-virtualization at the University of Toronto, where I worked with Eyal de Lara and Michael Brudno. My interest in cloud computing, datacenter operating systems, and programming the cloud brought me to the University of Toronto from industry, where I had been developing cluster middleware for distributed datacenter resource management.
 
-## <a id="hf">Greg Diamos - ML Systems</a>
-
-<img alt="Greg Diamos Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/GregDiamos.png" width="300" height="300">
-
-<!--<a id="hf_ab"></a>**Abstract:** -->
-
-<a id="hf_bio"></a>**Biography:**
-Greg's mission is to build complex systems that the world can use.
-
-He had previously co-founded MLPerf & MLCommons, which have now set the industry standards for high performance machine learning systems.
-
-He had led the AI team at Baidu, where his team published the first paper on LLM scaling laws and invented Tensor Cores. He has nearly 14,000 citations on his research. At Baidu, he was also in charge of deploying one of the first LLMs into production to 100M people in 2009 into the Baidu search engine. The LLM is used by over 1 billion people today.
-
-The team he led has now gone on to lead the development of nearly all the major foundation models we know today: OpenAI's GPT-3, GPT-4, and ChatGPT; Anthropic's Claude and Claude 2; Meta's Llama and Llama 2; NVIDIA's Megatron; and Google's PaLM.
-
-In 2008, the very early days of deep learning, Greg was one of the original architects on CUDA — aka. a CUDA Ninja — at NVIDIA, where he contributed key inventions to the Volta GPU. He pioneered the earliest project in deep learning at NVIDIA (fun fact: AI wasn't cool then!), applying CUDA to neural networks for the first time.
-
-He holds a PhD from the Georgia Institute of Technology in high-performance computing.
 
 ## <a id="hf">Vijay Reddi - ML Systems</a>
 
