@@ -19,12 +19,26 @@ Hal is a program manager for computer-science research in the US Department of E
 <a id="at_bio"></a>**Biography:**
 I've started as a tenure-track Assistant Professor in the School of Computer Science at Georgia Tech in August 2019, transitioning from my postdoc at the University of California Berkeley, where I worked with Ion Stoica and collaborated closely with Joseph Gonzalez. I completed my Ph.D. at Carnegie Mellon University, advised by Gregory Ganger. At Carnegie Mellon, I was honored by the prestigious NSERC Alexander Graham Bell Canada Graduate Scholarship (NSERC CGS-D3) and partially funded by the Intel Science and Technology Centre for Cloud Computing and Parallel Data Lab. Prior to Carnegie Mellon, I worked on agile stateful VM replication with para-virtualization at the University of Toronto, where I worked with Eyal de Lara and Michael Brudno. My interest in cloud computing, datacenter operating systems, and programming the cloud brought me to the University of Toronto from industry, where I had been developing cluster middleware for distributed datacenter resource management.
 
+## <a id="mi">Michael Isaev - Calculon: a methodology and tool for high-level co-design of systems and large language models</a>
 
-## <a id="hf">Vijay Reddi - ML Systems</a>
+<a id="mi_ab"></a>**Abstract:**
+In this talk, we will examine Calculon, a parameterized analytical performance model of transformer-based Large Language Models (LLMs) for guiding high-level algorithm-architecture codesign studies. This model derives from an extensive survey of performance optimizations that have been proposed for the training and inference of LLMs; the model's parameters capture application characteristics, the hardware system, and the space of implementation strategies. With such a model, we can systematically explore a joint space of hardware and software configurations to identify optimal system designs under given constraints, like the total amount of system memory. Using Calculon, we have identified novel system designs that look significantly different from current inference and training systems, and we will discuss how this tool can help us to achieve higher efficiency, lower cost, and better scalability.
+
+<a id="mi_bio"></a>**Biography:**
+Michael Isaev is a senior PhD student in the School of Computational Science and Engineering working with Dr. Richard Vuduc. His research interests include accelerating deep learning inference and training with a specific focus on using HPC techniques and algorithmic hardware and software co-design to create network accelerators for deep learning applications. 
+
+## <a id="lh">Larry Heck - A Brief History of Large Language Models... and a glimpse into the future</a>
+
+<a id="lh_ab"></a>**Abstract:** 
+With the very recent and broad awareness of Large Language Models (LLMs) across many disciplines and industries, there is a high level of excitement and expectation for the potential of this technology. As with any significant advance in technology, there is also the accompanying hype with overstatements of the capabilities of LLMs (e.g., reasoning, intelligence, emerging consciousness) as well as accompanying fear of what this advance represents in the broader AI story - fear of AI taking jobs, fear of AI misinformation, bias, undue influence on the political and economic processes, fear of unchecked autonomous AI, etc. In this talk, I will attempt to provide clarity on the reality of LLMs - a brief historical perspective on where they came from, what problems they were designed to solve, and what are their inherent limitations. I will discuss some of the more surprising capabilities that have emerged in LLMs, the potential of LLMs, and where the technology is going in the near future.
+
+<a id="lh_bio"></a>**Biography:** Larry Heck is a Professor in ECE and Interactive Computing, co-Head of the AI Hub and Machine Learning Center, Farmer Chair of Advanced Computing Concepts, and a GRA Eminent Scholar at the Georgia Institute of Technology. He is a Fellow of the IEEE, inducted into the Academy of Distinguished Engineers at Georgia Tech, and named a Distinguished Engineer at Texas Tech. After receiving the PhD EE from Georgia Tech, he joined SRI, followed by VP of R&D at Nuance, VP of Search and Advertising at Yahoo!, Chief Speech Scientist and Distinguished Engineer at Microsoft, Principal Scientist with Google Research, and CEO of Viv Labs and SVP at Samsung.
+
+## <a id="vr">Vijay Reddi - ML Systems</a>
 
 <img alt="Vijay Reddi Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/vijay.jpg" width="300" height="300">
 
-<!--<a id="hf_ab"></a>**Abstract:** -->
+<!--<a id="vr_ab"></a>**Abstract:** -->
 
 <a id="vr_bio"></a>**Biography:**
 My research is centered on mobile and edge-centric computing systems with a rare taste for cloud computing aspects, mostly as it pertains to edge computing or my students' interests. I direct the Edge Computing Lab. I believe in solving computing problems, rather than associating myself with a particular domain or field of computing (i.e., hardware or software). I take great pride in that, and that reflects in my research groups' training. I generally publish in Computer Architecture, Robotics and ML venues.
