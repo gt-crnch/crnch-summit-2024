@@ -21,6 +21,8 @@ I've started as a tenure-track Assistant Professor in the School of Computer Sci
 
 ## <a id="mi">Michael Isaev - Calculon: a methodology and tool for high-level co-design of systems and large language models</a>
 
+<img alt="Michael Isaev Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/michael.jpeg" width="230" height="300">
+
 <a id="mi_ab"></a>**Abstract:**
 In this talk, we will examine Calculon, a parameterized analytical performance model of transformer-based Large Language Models (LLMs) for guiding high-level algorithm-architecture codesign studies. This model derives from an extensive survey of performance optimizations that have been proposed for the training and inference of LLMs; the model's parameters capture application characteristics, the hardware system, and the space of implementation strategies. With such a model, we can systematically explore a joint space of hardware and software configurations to identify optimal system designs under given constraints, like the total amount of system memory. Using Calculon, we have identified novel system designs that look significantly different from current inference and training systems, and we will discuss how this tool can help us to achieve higher efficiency, lower cost, and better scalability.
 
@@ -28,6 +30,8 @@ In this talk, we will examine Calculon, a parameterized analytical performance m
 Michael Isaev is a senior PhD student in the School of Computational Science and Engineering working with Dr. Richard Vuduc. His research interests include accelerating deep learning inference and training with a specific focus on using HPC techniques and algorithmic hardware and software co-design to create network accelerators for deep learning applications. 
 
 ## <a id="lh">Larry Heck - A Brief History of Large Language Models... and a glimpse into the future</a>
+
+<img alt="Larry Heck Headshot" src="./presenter_slides/Friday_02_09_24/headshots/larry.jpeg" width="230" height="300">
 
 <a id="lh_ab"></a>**Abstract:** 
 With the very recent and broad awareness of Large Language Models (LLMs) across many disciplines and industries, there is a high level of excitement and expectation for the potential of this technology. As with any significant advance in technology, there is also the accompanying hype with overstatements of the capabilities of LLMs (e.g., reasoning, intelligence, emerging consciousness) as well as accompanying fear of what this advance represents in the broader AI story - fear of AI taking jobs, fear of AI misinformation, bias, undue influence on the political and economic processes, fear of unchecked autonomous AI, etc. In this talk, I will attempt to provide clarity on the reality of LLMs - a brief historical perspective on where they came from, what problems they were designed to solve, and what are their inherent limitations. I will discuss some of the more surprising capabilities that have emerged in LLMs, the potential of LLMs, and where the technology is going in the near future.
