@@ -38,7 +38,7 @@ With the very recent and broad awareness of Large Language Models (LLMs) across 
 
 <a id="lh_bio"></a>**Biography:** Larry Heck is a Professor in ECE and Interactive Computing, co-Head of the AI Hub and Machine Learning Center, Farmer Chair of Advanced Computing Concepts, and a GRA Eminent Scholar at the Georgia Institute of Technology. He is a Fellow of the IEEE, inducted into the Academy of Distinguished Engineers at Georgia Tech, and named a Distinguished Engineer at Texas Tech. After receiving the PhD EE from Georgia Tech, he joined SRI, followed by VP of R&D at Nuance, VP of Search and Advertising at Yahoo!, Chief Speech Scientist and Distinguished Engineer at Microsoft, Principal Scientist with Google Research, and CEO of Viv Labs and SVP at Samsung.
 
-## <a id="hf">Santosh Vempala - "Food for Thought"</a>
+## <a id="hf">Santosh Vempala - Emergent Computation and Learning in a Model of the Brain: from Neurons and Synapses to Memory and Cognition</a>
 
 <img alt="Santosh Vempala Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/santosh_vempala_0.png" width="250" height="300">
 
@@ -68,7 +68,7 @@ For decades, smart devices (i.e., wireless sensing and computing systems) have r
 <a id="jh_bio"></a>**Biography:**
 Josiah Hester is the Allchin Chair and Associate Professor of Interactive Computing and Computer Science at Georgia Tech. His work focuses on reimagining computing for sustainability, informed by his Kānaka Maoli heritage. Specifically, he investigates battery-free embedded systems and intermittent computing, with applications in health, conservation, agriculture, and interactive systems. Josiah was named a Sloan Fellow in Computer Science and won his NSF CAREER in 2022. His work has received multiple best paper awards and featured in the Wall Street Journal, Scientific American, BBC, Popular Science, Communications of the ACM, and the Guinness Book of World Records, among others.
 
-## <a id="hf">Azad Naeemi - Extreme Low Power Computing</a>
+## <a id="hf">Azad Naeemi - Novel Ternary Content Addressable Memory Designs Based on Emerging Magnetic and Magnetoelectric Devices</a>
 
 <img alt="Azad Naeemi Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/Azad.webp" width="300" height="300">
 
@@ -81,7 +81,7 @@ With the ever-growing limits imposed by interconnects, novel computing paradigms
 Azad Naeemi is a professor in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. His technical research crosses the boundaries of materials, devices, circuits, and systems, investigating integrated circuits based on conventional and emerging nanoscale devices and interconnects. His educational research includes experiential learning environments and their impact on conceptual understanding of scientific and engineering topics. He serves as the Editor-in-Chief of the IEEE Journal on Exploratory Computational Devices and Circuits (JXCDC) and is the Associate Director for Computation for the NSF-supported National Nanotechnology Coordinated Infrastructure (NNCI). He is a recipient of the IEEE Electron Devices Society (EDS) Paul Rappaport Award, the Inaugural IEEE Solid-State Circuits Society (SSCS) James Meindl Innovators Award, an NSF CAREER Award, an SRC Inventor Recognition Award, and several best paper awards from international conferences. 
  
 
-## <a id="hf">Jason Lowe-Power - Simulation and Testbeds</a>
+## <a id="hf">Jason Lowe-Power - Leveraging the open-source ethos: How and why gem5 is being used to design the next generation of supercomputers</a>
 
 <img alt="Jason Lowe-Power Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/jason.jpg" width="270" height="300">
 
@@ -91,7 +91,7 @@ Computer architecture simulation is a vital tool for designing and evaluating th
 <a id="jlp_bio"></a>**Biography:**
 Jason Lowe-Power is an Associate Professor at University of California, Davis where he leads the Davis Computer Architecture Research Lab (DArchR). His research interests include optimizing data movement in heterogeneous systems, hardware support for security, and simulation infrastructure. Professor Lowe-Power is also the Chair of the Project Management Committee for the gem5 open-source simulation infrastructure. He received his PhD in 2017 from the University of Wisconsin, Madison, and received an NSF CAREER Award and a Google Research Scholar Award
 
-## <a id="hf">Jeffrey Young - Simulation and Testbeds</a>
+## <a id="hf">Jeffrey Young - Novel Architecture Simulation, Emulation, and Evaluation with the CRNCH Rogues Gallery</a>
 
 <img alt="Jeff Young Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/jeffrey_young.png" width="260" height="300">
 
@@ -100,7 +100,7 @@ Jason Lowe-Power is an Associate Professor at University of California, Davis wh
 <a id="jy_bio"></a>**Biography:**
 Jeffrey (Jeff) Young is a research scientist in Georgia Tech's School of Computer Science. His main research interests include investigating scheduling and data movement for accelerators like GPU and Xeon Phi and working to model and map algorithms to high-performance architectures. He is currently working on a collaborative research program that is focused on mapping bandwidth-intensive algorithms to 3D stacked memories like Hybrid Memory Cube (HMC) and High Bandwidth Memory (HBM)  and on performing near-memory computation on devices like FPGAs and GPUs. He received his PhD in computer engineering in 2013 from Georgia Tech's ECE department.
 
-## <a id="hf">Murali Emani -Simulation and Testbeds </a>
+## <a id="hf">Murali Emani - Accelerating Scientific Machine Learning with AI Accelerators at ALCF AI Testbed </a>
 
 <img alt="Murali Emani Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/Murali-profile-pic.jpg" width="300" height="300">
 
@@ -115,7 +115,7 @@ I am a Computer Scientist in the Artificial Intelligence and Machine Learning (A
 
 
 # Friday, February 9th, 2024
-## <a id="hf">Yiran Chen - Keynote</a>
+## <a id="hf">Yiran Chen - Optimizing AI Systems through Cross-Layer Design: A Data-Centric Approach</a>
 
 <img alt="Yiran Chen Headshot" src="./presenter_slides/Friday_02_09_24/headshots/yiran.jpg" width="300" height="300">
 
@@ -125,7 +125,7 @@ As artificial intelligence (AI) transforms various industries, state-of-the-art 
 <a id="yc_bio"></a>**Biography:**
 Yiran Chen received B.S. (1998) and M.S. (2001) from Tsinghua University and Ph.D. (2005) from Purdue University. After five years in the industry, he joined the University of Pittsburgh in 2010 as Assistant Professor and was promoted to Associate Professor with tenure in 2014, holding Bicentennial Alumni Faculty Fellow. He is now the John Cocke Distinguished Professor of Electrical and Computer Engineering at Duke University and serving as the director of the NSF AI Institute for Edge Computing Leveraging the Next-generation Networks (Athena), the NSF Industry-University Cooperative Research Center (IUCRC) for Alternative Sustainable and Intelligent Computing (ASIC), and the co-director of Duke Center for Computational Evolutionary Intelligence (DCEI). His group focuses on the research of new memory and storage systems, machine learning and neuromorphic computing, and mobile computing systems. Dr. Chen has published 1 book and about 600 technical publications and has been granted 96 US patents. He has served as the associate editor of more than a dozen international academic periodicals and served on the technical and organization committees of about 70 international conferences. He is now serving as the Editor-in-Chief of the IEEE Circuits and Systems Magazine. He received 11 best paper awards, 1 best poster award, and 15 best paper nominations from international conferences and workshops. He received numerous awards for his technical contributions and professional services such as the IEEE CASS Charles A. Desoer Technical Achievement Award, the IEEE Computer Society Edward J. McCluskey Technical Achievement Award, etc. He has been the distinguished lecturer of IEEE CEDA and CAS. He is a Fellow of the AAAS, ACM, and IEEE, and now serves as the chair of ACM SIGDA.
 
-## <a id="hf">Jennifer Hasler - Analog and Neuromorphic</a>
+## <a id="hf">Jennifer Hasler - A Vision for Neuromorphic Hardware Development Tools</a>
 
 <img alt="Jennifer Hasler Headshot" src="./presenter_slides/Friday_02_09_24/headshots/JenniferHasler.webp" width="300" height="300">
 
@@ -140,7 +140,7 @@ Dr. Hasler founded the Integrated Computational Electronics (ICE) laboratory at 
 
 Dr. Hasler is a member of Tau Beta P, Eta Kappa Nu, and the IEEE.
 
-## <a id="hf">Ben Feinberg - Analog and Neuromorphic</a>
+## <a id="hf">Ben Feinberg - Where Is My Analog Accelerator?</a>
 
 <img alt="Ben Feinberg Headshot" src="./presenter_slides/Friday_02_09_24/headshots/ben.jpg" width="300" height="300">
 
@@ -150,7 +150,7 @@ Over the past decade there has been a resurgence of interest in analog accelerat
 <a id="bf_bio"></a>**Biography:**
 Ben Feinberg is a Senior Member of Technical Staff in the Scalable Computer Architecture Group at Sandia National Laboratories. His research focuses on architectures for autonomous system with an emphasis on analog accelerators. Dr. Feinberg leads architecture modeling and system software research for Sandia's Rad-Edge project, and is Sandia's lead architect for the DARPA OPTIMA program. He is one of the developers of CrossSim, and leads a project with DOE Vehicle Technology Office on compute requirements for autonomous vehicles. Prior to joining Sandia in 2019, Ben completed his PhD in Electrical Engineering at the University of Rochester
 
-## <a id="hf">Spencer Bryngelson - Emerging Applications</a>
+## <a id="hf">Spencer Bryngelson - Hybrid algorithm for incompressible flow simulation on quantum hardware</a>
 
 <img alt="Spencer Bryngelson Headshot" src="./presenter_slides/Friday_02_09_24/headshots/spencer_bryngelson.jpg" width="280" height="300">
 
@@ -160,7 +160,7 @@ Partial differential equation (PDE) solvers for Navier-Stokes fluids problems ar
 <a id="sb_bio"></a>**Biography:**
 Spencer Bryngelson is a tenure-track assistant professor in the College of Computing at Georgia Tech. Previously, he was a senior postdoctoral researcher at Caltech (with Professor Tim Colonius). He has been a visiting researcher at MIT (with Professor Themis Sapsis) and a postdoctoral researcher at the Center for Exascale Simulation of Plasma-Coupled Combustion (XPACC). He received his Ph.D. and M.S. in Theoretical and Applied Mechanics from the University of Illinois at Urbana–Champaign in 2017 and 2015, working with Professor Jonathan Freund. In 2013, he received B.S. degrees in both Mechanical Engineering and Mathematics from the University of Michigan–Dearborn.
 
-## <a id="hf">Mathias Jacquelin - Emerging Applications</a>
+## <a id="hf">Mathias Jacquelin - Multi-Dimensional Seismic Processing with Algebraic Compression on Cerebras CS-2 Systems</a>
 
 <img alt="Mathias Jacquelin Headshot" src="./presenter_slides/Friday_02_09_24/headshots/mathias.jpeg" width="280" height="300">
 
@@ -172,7 +172,7 @@ Mathias Jacquelin is a Senior Member of the Technical Staff at Cerebras Systems,
 
 Mathias has made various contributions to dense and sparse matrix and stencil computations. He received the 2017 Best Paper Award at the IXPUG workshop of the ISC HPC conference and the 2011 TCPP Best Poster award at the 25th International Parallel and Distributed Processing Symposium (IPDPS’11).
 
-## <a id="hf">Larry Heck - Emerging Applications</a>
+<!-- ## <a id="hf">Larry Heck - Emerging Applications</a>
 
 <img alt="Larry Heck Headshot" src="./presenter_slides/Friday_02_09_24/headshots/larry.jpeg" width="240" height="300">
 
@@ -180,9 +180,9 @@ Mathias has made various contributions to dense and sparse matrix and stencil co
 With the very recent and broad awareness of Large Language Models (LLMs) across many disciplines and industries, there is a high level of excitement and expectation for the potential of this technology. As with any significant advance in technology, there is also the accompanying hype with overstatements of the capabilities of LLMs (e.g., reasoning, intelligence, emerging consciousness) as well as accompanying fear of what this advance represents in the broader AI story - fear of AI taking jobs, fear of AI misinformation, bias, undue influence on the political and economic processes, fear of unchecked autonomous AI, etc. In this talk, I will attempt to provide clarity on the reality of LLMs - a brief historical perspective on where they came from, what problems they were designed to solve, and what are their inherent limitations. I will discuss some of the more surprising capabilities that have emerged in LLMs, the potential of LLMs, and where the technology is going in the near future.
 
 <a id="lh_bio"></a>**Biography:**
-Larry Heck is a Professor in ECE and Interactive Computing, co-Head of the AI Hub and Machine Learning Center, Farmer Chair of Advanced Computing Concepts, and a GRA Eminent Scholar at the Georgia Institute of Technology. He is a Fellow of the IEEE, inducted into the Academy of Distinguished Engineers at Georgia Tech, and named a Distinguished Engineer at Texas Tech. After receiving the PhD EE from Georgia Tech, he joined SRI, followed by VP of R&D at Nuance, VP of Search and Advertising at Yahoo!, Chief Speech Scientist and Distinguished Engineer at Microsoft, Principal Scientist with Google Research, and CEO of Viv Labs and SVP at Samsung.
+Larry Heck is a Professor in ECE and Interactive Computing, co-Head of the AI Hub and Machine Learning Center, Farmer Chair of Advanced Computing Concepts, and a GRA Eminent Scholar at the Georgia Institute of Technology. He is a Fellow of the IEEE, inducted into the Academy of Distinguished Engineers at Georgia Tech, and named a Distinguished Engineer at Texas Tech. After receiving the PhD EE from Georgia Tech, he joined SRI, followed by VP of R&D at Nuance, VP of Search and Advertising at Yahoo!, Chief Speech Scientist and Distinguished Engineer at Microsoft, Principal Scientist with Google Research, and CEO of Viv Labs and SVP at Samsung.-->
 
-## <a id="hf">Roberto Gioiosa - HW-SW Co-Design</a>
+## <a id="hf">Roberto Gioiosa - Hardware Accelerators: Use, Misuse, and Co-Design</a>
 
 <img alt="Roberto Gioiosa Headshot" src="./presenter_slides/Friday_02_09_24/headshots/Gioiosa.jpg" width="420" height="300">
 
@@ -196,7 +196,7 @@ Dr. Gioiosa earned his Ph.D. in 2006 from the University of Rome "Tor Vergara", 
 Currently, his projects include the development of system software for extremely heterogeneous systems, system software for scalable distributed systems, , DSSoC design, evaluation of emerging architecture and technologies for exascale systems and applications, and development of operating systems for exascale systems. He is a member of the ACM and IEEE Computer Society.
 
 
-## <a id="hf">Bahar Asgari - HW-SW Co-Design</a>
+## <a id="hf">Bahar Asgari - Exploiting Diversity in Sparse Problems to Enable Efficient Computing</a>
 
 <img alt="Bahar Asgari Headshot" src="./presenter_slides/Friday_02_09_24/headshots/bahar.jpg" width="300" height="300">
 
