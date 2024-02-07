@@ -34,15 +34,6 @@ With the very recent and broad awareness of Large Language Models (LLMs) across 
 
 <a id="lh_bio"></a>**Biography:** Larry Heck is a Professor in ECE and Interactive Computing, co-Head of the AI Hub and Machine Learning Center, Farmer Chair of Advanced Computing Concepts, and a GRA Eminent Scholar at the Georgia Institute of Technology. He is a Fellow of the IEEE, inducted into the Academy of Distinguished Engineers at Georgia Tech, and named a Distinguished Engineer at Texas Tech. After receiving the PhD EE from Georgia Tech, he joined SRI, followed by VP of R&D at Nuance, VP of Search and Advertising at Yahoo!, Chief Speech Scientist and Distinguished Engineer at Microsoft, Principal Scientist with Google Research, and CEO of Viv Labs and SVP at Samsung.
 
-## <a id="vr">Vijay Reddi - ML Systems</a>
-
-<img alt="Vijay Reddi Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/vijay.jpg" width="300" height="300">
-
-<!--<a id="vr_ab"></a>**Abstract:** -->
-
-<a id="vr_bio"></a>**Biography:**
-My research is centered on mobile and edge-centric computing systems with a rare taste for cloud computing aspects, mostly as it pertains to edge computing or my students' interests. I direct the Edge Computing Lab. I believe in solving computing problems, rather than associating myself with a particular domain or field of computing (i.e., hardware or software). I take great pride in that, and that reflects in my research groups' training. I generally publish in Computer Architecture, Robotics and ML venues.
-
 ## <a id="hf">Santosh Vempala - "Food for Thought"</a>
 
 <img alt="Santosh Vempala Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/santosh_vempala_0.png" width="250" height="300">
@@ -134,16 +125,6 @@ As artificial intelligence (AI) transforms various industries, state-of-the-art 
 <a id="yc_bio"></a>**Biography:**
 Yiran Chen received B.S. (1998) and M.S. (2001) from Tsinghua University and Ph.D. (2005) from Purdue University. After five years in the industry, he joined the University of Pittsburgh in 2010 as Assistant Professor and was promoted to Associate Professor with tenure in 2014, holding Bicentennial Alumni Faculty Fellow. He is now the John Cocke Distinguished Professor of Electrical and Computer Engineering at Duke University and serving as the director of the NSF AI Institute for Edge Computing Leveraging the Next-generation Networks (Athena), the NSF Industry-University Cooperative Research Center (IUCRC) for Alternative Sustainable and Intelligent Computing (ASIC), and the co-director of Duke Center for Computational Evolutionary Intelligence (DCEI). His group focuses on the research of new memory and storage systems, machine learning and neuromorphic computing, and mobile computing systems. Dr. Chen has published 1 book and about 600 technical publications and has been granted 96 US patents. He has served as the associate editor of more than a dozen international academic periodicals and served on the technical and organization committees of about 70 international conferences. He is now serving as the Editor-in-Chief of the IEEE Circuits and Systems Magazine. He received 11 best paper awards, 1 best poster award, and 15 best paper nominations from international conferences and workshops. He received numerous awards for his technical contributions and professional services such as the IEEE CASS Charles A. Desoer Technical Achievement Award, the IEEE Computer Society Edward J. McCluskey Technical Achievement Award, etc. He has been the distinguished lecturer of IEEE CEDA and CAS. He is a Fellow of the AAAS, ACM, and IEEE, and now serves as the chair of ACM SIGDA.
 
-## <a id="hf">Ben Feinberg - Analog and Neuromorphic</a>
-
-<img alt="Ben Feinberg Headshot" src="./presenter_slides/Friday_02_09_24/headshots/ben.jpg" width="300" height="300">
-
-<a id="bf_ab"></a>**Abstract:**
-Over the past decade there has been a resurgence of interest in analog accelerators capitalizing on developments in dense, CMOS-compatible, and programmable non-volatile memories. Taking advantage of fundamental circuit properties to perform linear algebra calculations in the analog domain has the potential to avoid major data movement challenges in modern systems. Unfortunately, a decade on analog linear algebra accelerators still seem closer to academic research than real products. This talk will discuss some of the challenges and pitfalls in architecture research on analog accelerators which have contributed to the slow progress. Despite these challenges however, there have been significant advances in analog accelerators and the field is well positioned for architectural research. This talk will review some recent results showing the potential of analog accelerators for a range of applications including computer vision, signal processing, and optimization, and discuss important architecture research directions for analog accelerators.
-
-<a id="bf_bio"></a>**Biography:**
-Ben Feinberg is a Senior Member of Technical Staff in the Scalable Computer Architecture Group at Sandia National Laboratories. His research focuses on architectures for autonomous system with an emphasis on analog accelerators. Dr. Feinberg leads architecture modeling and system software research for Sandia's Rad-Edge project, and is Sandia's lead architect for the DARPA OPTIMA program. He is one of the developers of CrossSim, and leads a project with DOE Vehicle Technology Office on compute requirements for autonomous vehicles. Prior to joining Sandia in 2019, Ben completed his PhD in Electrical Engineering at the University of Rochester
-
 ## <a id="hf">Jennifer Hasler - Analog and Neuromorphic</a>
 
 <img alt="Jennifer Hasler Headshot" src="./presenter_slides/Friday_02_09_24/headshots/JenniferHasler.webp" width="300" height="300">
@@ -158,6 +139,16 @@ Dr. Hasler is a professor at the Georgia Institute of Technology in the School o
 Dr. Hasler founded the Integrated Computational Electronics (ICE) laboratory at Georgia Tech, a laboratory affiliated with the Laboratories for Neural Engineering.
 
 Dr. Hasler is a member of Tau Beta P, Eta Kappa Nu, and the IEEE.
+
+## <a id="hf">Ben Feinberg - Analog and Neuromorphic</a>
+
+<img alt="Ben Feinberg Headshot" src="./presenter_slides/Friday_02_09_24/headshots/ben.jpg" width="300" height="300">
+
+<a id="bf_ab"></a>**Abstract:**
+Over the past decade there has been a resurgence of interest in analog accelerators capitalizing on developments in dense, CMOS-compatible, and programmable non-volatile memories. Taking advantage of fundamental circuit properties to perform linear algebra calculations in the analog domain has the potential to avoid major data movement challenges in modern systems. Unfortunately, a decade on analog linear algebra accelerators still seem closer to academic research than real products. This talk will discuss some of the challenges and pitfalls in architecture research on analog accelerators which have contributed to the slow progress. Despite these challenges however, there have been significant advances in analog accelerators and the field is well positioned for architectural research. This talk will review some recent results showing the potential of analog accelerators for a range of applications including computer vision, signal processing, and optimization, and discuss important architecture research directions for analog accelerators.
+
+<a id="bf_bio"></a>**Biography:**
+Ben Feinberg is a Senior Member of Technical Staff in the Scalable Computer Architecture Group at Sandia National Laboratories. His research focuses on architectures for autonomous system with an emphasis on analog accelerators. Dr. Feinberg leads architecture modeling and system software research for Sandia's Rad-Edge project, and is Sandia's lead architect for the DARPA OPTIMA program. He is one of the developers of CrossSim, and leads a project with DOE Vehicle Technology Office on compute requirements for autonomous vehicles. Prior to joining Sandia in 2019, Ben completed his PhD in Electrical Engineering at the University of Rochester
 
 ## <a id="hf">Spencer Bryngelson - Emerging Applications</a>
 
