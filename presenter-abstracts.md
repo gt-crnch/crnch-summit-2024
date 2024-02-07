@@ -58,15 +58,11 @@ Prasanna Balaprakash is the Director of AI Programs and Distinguished R&D Scient
 
 <img alt="Josiah Hester Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/josiah_hester.jpg" width="300" height="300">
 
-<!--<a id="hf_ab"></a>**Abstract:** -->
+<a id="hf_ab"></a>**Abstract:**
+For decades, smart devices (i.e., wireless sensing and computing systems) have relied primarily on battery power. Yet, batteries are bulky, expensive, high-maintenance, and unsustainable for the next trillion devices. Instead of relying on energy stored in a battery, the past decade has seen new approaches enabling battery-free, energy-harvesting smart devices. These devices compute intermittently, losing power, harvesting energy, restoring computational state, and finally continuing execution from the last checkpoint. This new paradigm has required rethinking programming models, operating systems, hardware and architecture design, tool creation, and evaluation techniques. In this talk, I will discuss the broad implications of what a battery-free, trillion-device IoT means, outline previous work on the topic, and then try to synthesize standard axioms and research frameworks from this work in the past decade– axioms that might guide (or be a starting point) for the next period of research in intermittent computing towards realizing a sustainable IoT.
 
 <a id="jh_bio"></a>**Biography:**
-I direct Ka Moamoa at Georgia Tech, a research lab exploring energy efficient computing in the context of global scale applications. We explore and develop new hardware designs, systems, interaction techniques, tools, and programming abstractions so that anyone can easily design, debug, and deploy tiny energy harvesting computers that work despite frequent power failures, constrained resources, and unpredictable conditions.
-
-
-I work towards a sustainable future for computing informed by my Native Hawaiian (Kānaka Maoli) heritage. I apply my work in the field of intermittent computing to large-scale sensing for sustainability and conservation, health wearables, and interactive devices. My work is supported by multiple grants from the NSF, NIH, ARPA-H, DARPA, DoD, 3M, VMware, and the Sloan Foundation.
-
-I was named a Sloan Fellow in Computer Science, won my NSF CAREER and a VMware Early Career Faculty Award in 2022. I was named to Popular Science’s Brilliant 10, the AISES Most Promising Scientist, and won a 3M Non-Tenured Faculty Award in 2021.
+Josiah Hester is the Allchin Chair and Associate Professor of Interactive Computing and Computer Science at Georgia Tech. His work focuses on reimagining computing for sustainability, informed by his Kānaka Maoli heritage. Specifically, he investigates battery-free embedded systems and intermittent computing, with applications in health, conservation, agriculture, and interactive systems. Josiah was named a Sloan Fellow in Computer Science and won his NSF CAREER in 2022. His work has received multiple best paper awards and featured in the Wall Street Journal, Scientific American, BBC, Popular Science, Communications of the ACM, and the Guinness Book of World Records, among others.
 
 ## <a id="hf">Azad Naeemi - Extreme Low Power Computing</a>
 
