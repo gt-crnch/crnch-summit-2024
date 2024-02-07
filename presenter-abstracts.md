@@ -21,7 +21,7 @@ I've started as a tenure-track Assistant Professor in the School of Computer Sci
 
 ## <a id="mi">Michael Isaev - Calculon: a methodology and tool for high-level co-design of systems and large language models</a>
 
-<img alt="Michael Isaev Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/michael.jpeg" width="230" height="300">
+<img alt="Michael Isaev Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/michael.jpeg" width="320" height="300">
 
 <a id="mi_ab"></a>**Abstract:**
 In this talk, we will examine Calculon, a parameterized analytical performance model of transformer-based Large Language Models (LLMs) for guiding high-level algorithm-architecture codesign studies. This model derives from an extensive survey of performance optimizations that have been proposed for the training and inference of LLMs; the model's parameters capture application characteristics, the hardware system, and the space of implementation strategies. With such a model, we can systematically explore a joint space of hardware and software configurations to identify optimal system designs under given constraints, like the total amount of system memory. Using Calculon, we have identified novel system designs that look significantly different from current inference and training systems, and we will discuss how this tool can help us to achieve higher efficiency, lower cost, and better scalability.
@@ -93,7 +93,7 @@ Jason Lowe-Power is an Associate Professor at University of California, Davis wh
 
 ## <a id="hf">Jeffrey Young - Simulation and Testbeds</a>
 
-<img alt="Jeff Young Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/jeffrey_young.png" width="280" height="300">
+<img alt="Jeff Young Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/jeffrey_young.png" width="260" height="300">
 
 <!--<a id="hf_ab"></a>**Abstract:** -->
 
