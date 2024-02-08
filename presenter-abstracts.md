@@ -91,6 +91,15 @@ Computer architecture simulation is a vital tool for designing and evaluating th
 <a id="jlp_bio"></a>**Biography:**
 Jason Lowe-Power is an Associate Professor at University of California, Davis where he leads the Davis Computer Architecture Research Lab (DArchR). His research interests include optimizing data movement in heterogeneous systems, hardware support for security, and simulation infrastructure. Professor Lowe-Power is also the Chair of the Project Management Committee for the gem5 open-source simulation infrastructure. He received his PhD in 2017 from the University of Wisconsin, Madison, and received an NSF CAREER Award and a Google Research Scholar Award
 
+## <a id="hf">Pan Li</a>
+
+<img alt="Pan Li Headshot" src="./presenter_slides/Friday_02_09_24/headshots/pan.png" width="260" height="300">
+
+<!--<a id="hf_ab"></a>**Abstract:** -->
+
+<a id="jy_bio"></a>**Biography:**
+Pan Li has joined Georgia Tech. ECE department as an assistant professor since 2023 Fall, and holds an adjunct position at Purdue CS department. Pan's research interest lies broadly in the area of machine learning and optimization with graph data. His recent work includes algorithms and analysis for graph neural networks, hypergraph spectral methods, and their applications in physics and circuit design.  Pan Li's work has been recognized by several awards including NSF Early Career Award, several industry research awards, and the Best Paper award at the 2022 Learning on Graph conference.
+
 ## <a id="hf">Jeffrey Young - Novel Architecture Simulation, Emulation, and Evaluation with the CRNCH Rogues Gallery</a>
 
 <img alt="Jeff Young Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/jeffrey_young.png" width="260" height="300">
