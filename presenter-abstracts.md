@@ -41,6 +41,9 @@ Michael Isaev is a senior PhD student in the School of Computational Science and
 
 
 ## <a id="pl">Pan Li - Machine learning on Graphs -- system-friendly algorithm design</a>
+
+<img alt="Pan Li Headshot" src="./presenter_slides/Friday_02_09_24/headshots/pan.png" width="260" height="300">
+
 <a id="pl_ab"></a>**Abstract:**
 Machine learning on graphs has found numerous applications across various domains, including social network analysis, recommendation systems, bioinformatics, and physics more. This talk is to present my group’s work on developing system-friendly algorithms for machine learning on graphs. Specifically, we will present a new algorithm pipeline named SUREL and its improved version SUREL+ for subgraph representation learning, which is known to be more expressive and behaves better than traditional graph neural networks in many tasks, such as link prediction, motif prediction, etc. The new framework achieves 50% performance boost in prediction accuracy compared with the traditional graph neural networks, and 5~20 times speed-up compared with the state-of-the-art subgraph representation learning pipeline
 
@@ -99,15 +102,6 @@ Computer architecture simulation is a vital tool for designing and evaluating th
 
 <a id="jlp_bio"></a>**Biography:**
 Jason Lowe-Power is an Associate Professor at University of California, Davis where he leads the Davis Computer Architecture Research Lab (DArchR). His research interests include optimizing data movement in heterogeneous systems, hardware support for security, and simulation infrastructure. Professor Lowe-Power is also the Chair of the Project Management Committee for the gem5 open-source simulation infrastructure. He received his PhD in 2017 from the University of Wisconsin, Madison, and received an NSF CAREER Award and a Google Research Scholar Award
-
-## <a id="hf">Pan Li</a>
-
-<img alt="Pan Li Headshot" src="./presenter_slides/Friday_02_09_24/headshots/pan.png" width="260" height="300">
-
-<!--<a id="hf_ab"></a>**Abstract:** -->
-
-<a id="jy_bio"></a>**Biography:**
-Pan Li has joined Georgia Tech. ECE department as an assistant professor since 2023 Fall, and holds an adjunct position at Purdue CS department. Pan's research interest lies broadly in the area of machine learning and optimization with graph data. His recent work includes algorithms and analysis for graph neural networks, hypergraph spectral methods, and their applications in physics and circuit design.  Pan Li's work has been recognized by several awards including NSF Early Career Award, several industry research awards, and the Best Paper award at the 2022 Learning on Graph conference.
 
 ## <a id="hf">Jeffrey Young - Novel Architecture Simulation, Emulation, and Evaluation with the CRNCH Rogues Gallery</a>
 
