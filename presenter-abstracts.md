@@ -60,7 +60,7 @@ How does the mind (perception and cognition) arise from the brain (neurons and s
 <a id="sv_bio"></a>**Biography:**
 Santosh Vempala is Frederick Storey II Chair of Computing and Distinguished Professor in the School of Computer Science, with courtesy appointments in the schools of Mathematics and Industrial and Systems Engineering (ISyE). He served as the founding director of the Algorithms and Randomness Center and ThinkTank (2006-2011), and is currently the director of GT's oldest interdisciplinary PhD program --- Algorithms, Combinatorics and Optimization. His research interests include algorithms, randomness, high-dimensional geometry, brain and computing-for-good (C4G). He graduated from CMU in 1997 advised by Avrim Blum and was on the MIT faculty until 2007 except for a year as a Miller Fellow at UC Berkeley. Vempala is also a Sloan, Guggenheim, ACM, AMS and generally excitable Fellow, especially when a phenomenon that appears complex from one perspective turns out to be simple from another. In recent years, he has been trying to understand the limits of sampling and optimization algorithms and building a computational theory of brain.
 
-## <a id="hf">Prasanna Balaprakash - Plenary Talk </a>
+## <a id="hf">Prasanna Balaprakash - _Plenary Talk_ - Taming High-Performance Computing Platform Complexity with Machine Learning </a>
 
 <img alt="Prasanna Balaprakash Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/BalaprakashProfile_0.jpg" width="300" height="300">
 
@@ -70,7 +70,7 @@ Heterogeneous nodes, many-core processors, and deep memory hierarchies, along wi
 <a id="pb_bio"></a>**Biography:**
 Prasanna Balaprakash is the Director of AI Programs and Distinguished R&D Scientist at Oak Ridge National Laboratory, where he directs laboratory research, development and application of artificial intelligence and machine learning (AI/ML) to solve problems of national importance. His research interests span artificial intelligence, machine learning, optimization, and high-performance computing. He is a recipient of the U.S. Department of Energy's 2018 Early Career Award. Prior to joining Oak Ridge, he was a R&D lead and computer scientist at Argonne National Laboratory. He earned his Ph.D. from CoDE-IRIDIA at the Université Libre de Bruxelles in Brussels, Belgium, where he was a recipient of the European Commission's Marie Curie and Belgian F.R.S-FNRS Aspirant fellowships.
 
-## <a id="hf">Josiah Hester - Extreme Low Power Computing</a>
+## <a id="hf">Josiah Hester - Embracing Failure: Axioms and Future Directions of Intermittent Computing </a>
 
 <img alt="Josiah Hester Headshot" src="./presenter_slides/Thursday_02_08_24/headshots/josiah_hester.jpg" width="300" height="300">
 
