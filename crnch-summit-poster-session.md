@@ -7,7 +7,10 @@ We note that in some cases, we have not linked posters due to work being under s
 
 | Student Presenter, Student Authors | Poster Title | Advisor(s) | GT Department | [Poster] [Abstract] |
 | ---------------------------------- | ------------ | ---------- | -------------|-------------------|
-
+|Amey Agarwal | Workload Adaptive Systems for Large Generative Language Model Inference (work under review) | Alexey Tumanov | SCS | NA |
+| Christopher Jawetz, Fatima Chrit, Spencer Bryngelson, Alexander Alexeev | Developing Quantum Computing Algorithms for Modeling Heat Transfer with Phase Change | Alexander Alexeev | ME, CSE | [Poster](../student_poster_session/posters/) [Abstract](#cj) |
+| Lakshmi Sathidevi, Cong (Callie) Hao | HW-SW Co-design of Efficient and Scalable Training for Relational Graph Representation Learning​ | Cong (Callie) Hao | ECE, Georgia Tech | [Poster](../student_poster_session/posters/) [Abstract](#ls) |
+| Jinsun Yoo, Anirudh Sarma, Difei Cao, Kartik Sinha, Myungjin Lee, Umakishore Ramachandran | Investigating Multi-Stream FaaS Applications in Geo-Distributed Edge Environments | Umakishore Ramachandran | School of Computer Science, School of Electrical and Computer Engineering | [Poster](../student_poster_session/posters/) [Abstract](#jy) |
 
 
 | Student Presenter, Student Authors | Poster Title | Advisor(s) | GT Department | [Poster] [Abstract] |
@@ -19,8 +22,6 @@ We note that in some cases, we have not linked posters due to work being under s
 | Girish Mururu, Sharjeel Khan, Bodhisatwa Chatterjee, Chao Chen, Chris Porter, Ada Gavrilovska, Santosh Pande | Beacons: An End-to-End Compiler Framework for Predicting and Utilizing Dynamic Loop Characteristics | Santosh Pande and Ada Gavrilovska | School of Computer Science, IBM Research | [Poster](../student_poster_session/posters/) [Abstract](#gm) |
 | Mikhail Isaev | Scaling Infrastructure to Support Multi-Trillion Parameter LLM Training | Rich Vuduc |  | [Poster](../student_poster_session/posters/) [Abstract](#mi) |
 | Max Dabagia, Christos Papadimitriou, Santosh Vempala | Computation with Sequences of Assemblies | Santosh Vempala | School of Computer Science, Department of Computer Science (Columbia University) | [Poster](../student_poster_session/posters/) [Abstract](#md) |
-| Christopher Jawetz, Fatima Chrit, Spencer Bryngelson, Alexander Alexeev | Developing Quantum Computing Algorithms for Modeling Heat Transfer with Phase Change | Alexander Alexeev | ME, CSE | [Poster](../student_poster_session/posters/) [Abstract](#cj) |
-| Jinsun Yoo, Anirudh Sarma, Difei Cao, Kartik Sinha, Myungjin Lee, Umakishore Ramachandran | Investigating Multi-Stream FaaS Applications in Geo-Distributed Edge Environments | Umakishore Ramachandran | School of Computer Science, School of Electrical and Computer Engineering | [Poster](../student_poster_session/posters/) [Abstract](#jy) |
 | Sri Ranganathan Palaniappan, Tejeshwar Natarajan, Rahul Narayanan; Chacko Abraham, Jeongyeop Han, Mugdha Daftardar, Dorsa Ajami | Neuromorphic Solutions to Reinforcement Learning Problems | Jeffrey Young, Aaron Jezghani | Various GT Departments | [Poster](../student_poster_session/posters/) [Abstract](#srp) |
 | Yongnuo Yang, Jeremy Wang, Alexander Contratti | Efficiency and Parallelism on the Lucata Pathfinder with the HPCG Benchmark | Jeffrey Young | School of ECE, School of CS | [Poster](../student_poster_session/posters/) [Abstract](#yy) |
 | Narges Alavisamani, Suhas Vittal, Ramin Ayanzadeh, Poulami Das, Moinuddin Qureshi | PROMATCH: Extending the Reach of Real-time MWPM with Adaptive Pre-Decoding for Quantum Error Correction Decoding | Moinuddin Qureshi | School of Computer Science, Department of Electrical and Computer Engineering (University of Texas at Austin) | [Poster](https://github.com/gt-crnch/crnch-summit-2024/blob/main/student_poster_session/posters/R_1DC2R8sI6UQZPAS_CRNCH%20Poster%202024%20-%20Promatch%20-%20Narges.pdf) [Abstract](#na) |
@@ -28,7 +29,6 @@ We note that in some cases, we have not linked posters due to work being under s
 | Stefan Abi-Karam | Hardware Design for High-Level Synthesis Using Large Language Models | Cong Hao | School of Electrical and Computer Engineering | [Poster](../student_poster_session/posters/) [Abstract](#sak) |
 | Hyoukjun Kwon, Krishnakumar Nair, Jamin Seo, Jason Yik, Debabrata Mohapatra, Dongyuan Zhan, Jinook Song, Peter Capak, Peizhao Zhang, Peter Vajda, Colby Banbury, Mark Mazumder, Liangzhen Lai, Ashish Sirasao, Tushar Krishna, Harshit Khaitan, Vikas Chandra, Vijay Janapa Reddi | XRBench: An Extended Reality (XR) Machine Learning Benchmark Suite for the Metaverse | Tushar Krishna | ECE, Georgia Institute of Technology, Meta, Harvard University, University of California, Irvine | [Poster](../student_poster_session/posters/) [Abstract](#hk) |
 | Lechen Yu, Feiyang Jin, Vivek Sarkar | Dynamic Analysis of Data Inconsistencies and Data Races in OpenMP Programs | Vivek Sarkar |  | [Poster](../student_poster_session/posters/) [Abstract](#ly) |
-| Lakshmi Sathidevi, Cong (Callie) Hao | HW-SW Co-design of Efficient and Scalable Training for Relational Graph Representation Learning​ | Cong (Callie) Hao | ECE, Georgia Tech | [Poster](../student_poster_session/posters/) [Abstract](#ls) |
 | Hang Yang, Lingjun Zhu | Back-side Power Delivery Networks with Integrated DC-DC Converter | Cong(Callie) Hao, Sungkyu Lim | ECE, Gatech | [Poster](../student_poster_session/posters/) [Abstract](#hy) |
 
 
