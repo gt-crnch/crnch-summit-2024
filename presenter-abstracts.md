@@ -41,6 +41,8 @@ Michael Isaev is a senior PhD student in the School of Computational Science and
 
 
 ## <a id="pl">Pan Li - Machine learning on Graphs -- system-friendly algorithm design</a>
+<a id="pl_ab"></a>**Abstract:**
+Machine learning on graphs has found numerous applications across various domains, including social network analysis, recommendation systems, bioinformatics, and physics more. This talk is to present my group’s work on developing system-friendly algorithms for machine learning on graphs. Specifically, we will present a new algorithm pipeline named SUREL and its improved version SUREL+ for subgraph representation learning, which is known to be more expressive and behaves better than traditional graph neural networks in many tasks, such as link prediction, motif prediction, etc. The new framework achieves 50% performance boost in prediction accuracy compared with the traditional graph neural networks, and 5~20 times speed-up compared with the state-of-the-art subgraph representation learning pipeline
 
 <a id="pl_bio"></a>**Biography:** 
 Pan Li has joined Georgia Tech's ECE department as an assistant professor  in Fall 2023, and he holds an adjunct position at Purdue's CS department. Pan's research interest lies broadly in the area of machine learning and optimization with graph data. His recent work includes algorithms and analysis for graph neural networks, hypergraph spectral methods, and their applications in physics and circuit design.  Pan Li's work has been recognized by several awards including the NSF Early Career Award, several industry research awards, and the Best Paper award at the 2022 Learning on Graphs conference.
